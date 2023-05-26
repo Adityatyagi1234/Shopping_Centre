@@ -728,10 +728,6 @@ footer .copyright{
 
 /* Start Media Query */
 @media (max-width: 768px) {
-  #hero p{
-    color: white;
-    font-weight: 600;
-  }
   .section-p1{
     padding: 40px 40px;
   }
@@ -786,7 +782,7 @@ footer .copyright{
   #hero{
     height: 70vh;
     padding: 0 80px;
-    background-position: top 30% right 30%;
+    background-position: top 10% right 5%;
   }
 
   #feature{
